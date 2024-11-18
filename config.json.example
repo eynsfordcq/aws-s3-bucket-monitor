@@ -1,0 +1,18 @@
+{
+    "my-backup-bucket-name": [
+        {
+            "prefix": "gitlab/",
+            "timedelta_days": 1
+        },
+        {
+            "prefix": "vaultwarden/",
+            "timedelta_days": 1
+        }
+    ],
+    "my-second-backup-bucket-name": [
+        {
+            "prefix": "database/",
+            "timedelta_days": 7
+        }
+    ]
+}
