@@ -2,6 +2,8 @@
 
 This Lambda function monitors AWS S3 buckets for the presence of recent backup files and sends alerts via SNS if files are missing. 
 
+![alt text](attachments/aws-s3-bucket-monitor.jpg)
+
 ---
 
 ## How It Works
